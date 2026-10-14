@@ -1,0 +1,25 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Compiled Java files
+*.class
+
+# Maven build output
+target/
+
+# Gradle build output
+.gradle/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
+*.swp
